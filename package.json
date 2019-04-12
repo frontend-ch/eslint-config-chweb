@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-ch",
+  "version": "1.0.0",
+  "description": "长虹前端团队eslint配置检测规范",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CH",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4"
+  },
+  "files": [
+    "index.js",
+    "eslint-config-react"
+  ],
+  "keywords": [
+    "ch",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "eslint",
+    "validate",
+    "code style"
+  ],
+  "dependencies": {
+    "babel-eslint": "^10.0.1"
+  }
+}
