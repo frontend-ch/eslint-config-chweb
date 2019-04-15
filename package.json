@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-ch",
+  "name": "eslint-config-chweb",
   "version": "1.0.0",
   "description": "长虹前端团队eslint配置检测规范",
   "main": "index.js",
