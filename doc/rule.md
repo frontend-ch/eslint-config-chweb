@@ -2,7 +2,6 @@
 
 | 规则名称        | 错误级别           | 说明  |
 | :------------- |:-------------| :-----|
-
 | [for-direction](https://eslint.org/docs/rules/for-direction) | warn | for 循环的方向不正确时给出警告 |
 | [getter-return](https://eslint.org/docs/rules/getter-return)      | error | getter必须有返回值，并且禁止返回值为undefined, 比如 return;  |
 | [no-await-in-loop](https://eslint.org/docs/rules/no-await-in-loop)| error | 不允许在循环里面使用await |
