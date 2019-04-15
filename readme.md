@@ -10,7 +10,7 @@ $ npm install --save-dev eslint eslint-plugin-react eslint-config-chweb
 ```
 
 ## 文档
-* [规则解释](docs/RULE.md)
+* [规则解释](doc/rule.md)
 
 ## 使用
 一旦`ESLint-config-chweb`安装成功，你可以通过[ESLint配置文件]((http://eslint.org/docs/user-guide/configuring)) 中的字段extends中使用它
