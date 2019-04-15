@@ -52,6 +52,7 @@ module.exports = {
 此处我们使用husky来管理所有的Hook，同之前的commit message校验。
 
 ```
+
 {
   "name": "with-lint-staged",
   "version": "0.0.1",
