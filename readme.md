@@ -1,12 +1,13 @@
 eslint-config-chweb
 ===========================
+[![](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/frontend-ch/eslint-config-chweb/blob/master/LICENSE) [![](https://img.shields.io/badge/npm-v1.0.0-519dd9.svg)](https://www.npmjs.com/package/eslint-config-chweb)
 
 长虹前端团队ESLint共享配置规则
 
 ## 安装
 
 ```
-$ npm install --save-dev  eslint-plugin-react eslint-config-chweb
+$ npm install --save-dev eslint eslint-plugin-react eslint-config-chweb
 ```
 
 ## 文档
@@ -52,6 +53,7 @@ module.exports = {
 此处我们使用husky来管理所有的Hook，同之前的commit message校验。
 
 ```
+
 {
   "name": "with-lint-staged",
   "version": "0.0.1",
@@ -65,7 +67,7 @@ module.exports = {
     ]
   },
   "devDependencies": {
-    "eslint": "^5.12.0",
+    "eslint": "^4.8.0",
     "eslint-plugin-react": "^7.4.0",
     "eslint-config-chweb": "1.0.0",
     "husky": "^0.14.3",
