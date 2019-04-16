@@ -67,7 +67,6 @@ module.exports = {
     ]
   },
   "devDependencies": {
-    "eslint": "^4.8.0",
     "eslint-plugin-react": "^7.4.0",
     "eslint-config-chweb": "1.0.0",
     "husky": "^0.14.3",
