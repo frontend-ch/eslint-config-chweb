@@ -7,7 +7,7 @@ eslint-config-chweb
 ## 安装
 
 ```
-$ npm install --save-dev eslint eslint-plugin-react eslint-config-chweb
+$ npm install --save-dev eslint-plugin-react eslint-config-chweb
 ```
 
 ## 文档
