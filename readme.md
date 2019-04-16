@@ -1,5 +1,6 @@
 eslint-config-chweb
 ===========================
+[![](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/frontend-ch/eslint-config-chweb/blob/master/LICENSE) [![](https://img.shields.io/badge/npm-v1.0.0-519dd9.svg)](https://www.npmjs.com/package/eslint-config-chweb)
 
 长虹前端团队ESLint共享配置规则
 
