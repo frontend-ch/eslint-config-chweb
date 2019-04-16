@@ -9,7 +9,6 @@
   "author": "CH",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^5.16.0",
     "eslint-plugin-react": "^7.12.4"
   },
   "files": [
