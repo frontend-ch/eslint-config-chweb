@@ -6,7 +6,7 @@ eslint-config-chweb
 ## 安装
 
 ```
-$ npm install --save-dev eslint eslint-plugin-react eslint-config-chweb
+$ npm install --save-dev  eslint-plugin-react eslint-config-chweb
 ```
 
 ## 文档
@@ -52,7 +52,6 @@ module.exports = {
 此处我们使用husky来管理所有的Hook，同之前的commit message校验。
 
 ```
-
 {
   "name": "with-lint-staged",
   "version": "0.0.1",
@@ -66,7 +65,7 @@ module.exports = {
     ]
   },
   "devDependencies": {
-    "eslint": "^4.8.0",
+    "eslint": "^5.12.0",
     "eslint-plugin-react": "^7.4.0",
     "eslint-config-chweb": "1.0.0",
     "husky": "^0.14.3",
