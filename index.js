@@ -8,7 +8,7 @@ module.exports = {
         'no-await-in-loop': 'error',//禁止在循环中出现 await
         'array-callback-return': 'warn',//数组方法的回调函数中没有 return 语句时给予警告
         'block-scoped-var': 'warn',//变量的使用超过其定义的作用域范围内时给予警告
-        'complexity': ["error", 3],//指定程序中允许的最大环路复杂度 3
+        'complexity': ["warn", 5],//指定程序中允许的最大环路复杂度5,超过会给予提醒
         'curly': 'error', //强制所有控制语句使用一致的括号风格
         'default-case': 'error', //要求 switch 语句中有 default 分支
         'eqeqeq': 'error', //要求使用 === 和 !==
