@@ -7,7 +7,7 @@
 | [no-await-in-loop](https://eslint.org/docs/rules/no-await-in-loop)| error | 不允许在循环里面使用await |
 | [array-callback-return](https://eslint.org/docs/rules/array-callback-return) | warn | 对于数据相关操作函数比如reduce, map, filter等，callback没有return时给出警告 |
 | [block-scoped-var](https://eslint.org/docs/rules/block-scoped-var) | warn | 把var关键字看成块级作用域，防止变量提升导致的bug |
-| [complexity](https://eslint.org/docs/rules/complexity) | error | 开启代码复杂度限制，深度最多为3 |
+| [complexity](https://eslint.org/docs/rules/complexity) | warn | 开启代码复杂度限制，深度最多为5 |
 | [curly](https://eslint.bootcss.com/docs/rules/curly/)  | error | 强制所有控制语句使用一致的括号风格|
 | [default-case](https://eslint.org/docs/rules/default-case) | error | switch case语句里面一定需要default分支 |
 | [eqeqeq](https://eslint.bootcss.com/docs/rules/eqeqeq/)  |error  | 要求使用 === 和 !==
